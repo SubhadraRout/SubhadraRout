@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">Subhadra Rout</span></h1>
+<h3 align="center">🚀 DevOps Enthusiast • Cybersecurity Explorer • B.Tech Student</h3>
 
-<!--
-**SubhadraRout/SubhadraRout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Aspiring+DevOps+Engineer+and+Cybersecurity+Enthusiast;Open+for+Internships+and+Full-Time+Roles" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SubhadraRout&label=Profile%20views&color=0e75b6&style=flat" alt="SubhadraRout" />
+</p>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech student at **Silicon University**
+- 🚀 Aspiring **DevOps Engineer**
+- 🔐 Cybersecurity enthusiast
+- 🧠 Love solving errors and debugging
+- 🌱 Currently learning: **Docker, Kubernetes, CI/CD, Cloud**
+- 🟢 **Open for Internships and Full-Time Opportunities**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ugcskinstudio24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+
+  <!-- Cybersecurity -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhadraRout&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadraRout&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadraRout&theme=dark&hide_border=true" width="90%" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy breaking systems just to understand them better — and then fixing them 😄
